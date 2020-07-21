@@ -7,16 +7,17 @@ import Header from '../header/header';
 const EventDescription = ()=> {
 
     return (
-        <div className = "eventDescription-wrapper">
+        <div className="EventDescription">
             <Header />
+            <div className = "eventDescription-wrapper">
             <div> Event Description </div>
             <input className = "eventDescription-input">
             </input>
             <button >
               <Link to="/progress-bar">  Submit </Link>
             </button>
-        </div>
-
+            </div>
+        </div>    
     )
 
 }
