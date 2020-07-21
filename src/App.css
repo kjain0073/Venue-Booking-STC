@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  color:red;
+}
+.calender{
+  height:fit-content;
+  margin:30vh auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+

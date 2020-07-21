@@ -1,0 +1,15 @@
+/* .panel-heading{
+    background-color:black !important;
+} */
+
+
+/* venuePage */
+
+#venue-button{
+    width: 100%;
+}
+#venue-button:hover{
+    color: antiquewhite;
+    background-color: #1699cf;
+    
+}

@@ -1,0 +1,28 @@
+
+.eventDescription-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+.eventDescription-wrapper >  button{
+    align-self:flex-end;
+    margin-right: 10%;
+    background-color: transparent;
+    color:black;
+    outline: none;
+    width: 100px;
+    border-radius: 6px;
+}
+.eventDescription-wrapper  > div{
+    align-self:flex-start;
+    margin:2px 0px 2px 10px;
+    margin-left: 10%;
+    font-size: 2rem;
+
+}
+.eventDescription-wrapper  > input{
+    height: 30vh;
+    width: 80%;
+    margin: 4px auto;
+    float:left;
+    border-radius: 20px;
+}

@@ -1,0 +1,39 @@
+
+#mainBuilding{
+width: 62.5rem;
+height: 20.813rem;
+margin-top: -1.5rem;
+}
+
+#index{
+width: 5.625rem;
+height: 5.625rem;
+cursor: pointer;
+margin-bottom: -6rem;
+margin-left: -9.5rem;
+
+}
+
+#venue{
+width: 13.75rem;
+height: 3.125rem;
+margin-left: -4rem;
+margin-top: 1.75rem;
+
+cursor: pointer;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 2rem;
+line-height: 1.063rem;
+
+color: #373C61;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

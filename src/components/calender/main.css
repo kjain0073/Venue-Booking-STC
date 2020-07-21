@@ -1,0 +1,28 @@
+.indicators{
+    margin-top: 6vh;
+    /* border:2px solid red; */
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.occupied{
+    font-size: 1rem;
+    /* width:30px; */
+    /* height: 30px; */
+    /* border:2px solid red; */
+}
+.semi-occupied{
+    font-size: 1rem;
+    /* width:30px; */
+    /* height: 30px; */
+    /* border:2px solid red; */
+    color:blue;
+}
+.un-occupied{
+    font-size: 1rem;
+    /* width:30px; */
+    /* height: 30px; */
+    /* border:2px solid red; */
+    color:burlywood
+
+}

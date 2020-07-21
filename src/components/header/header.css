@@ -1,0 +1,46 @@
+.hindiName{
+	width: 40rem;
+	height: 3.188rem;
+	margin-top: -7.5rem;
+	margin-left: 25rem;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 2rem;
+	line-height: 1.875rem;
+	word-spacing: 0.938rem;
+
+	color: #373C61;
+}
+
+.englishName{
+	width: 43.25rem;
+	height: 4.5rem;
+	margin-top: -3rem;
+	margin-left: 25rem; 
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 1.625rem;
+	line-height: 2.063rem;
+
+	color: #373C61;
+}
+
+.logo{
+	width: 5rem;
+	height: 5rem;
+	margin-top: -5.5rem;
+	margin-bottom: 3rem;
+	margin-left: -19rem;	
+	margin-right: 19rem;
+}
+
+.border1{
+	width: 85rem;
+	height: 0.1rem;
+	margin-top: 5.5rem
+
+}
